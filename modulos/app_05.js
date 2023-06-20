@@ -87,11 +87,11 @@ fs.unlink("./arch05b.txt", (err) => {
 
 /*
 //no sirvio :(
-setTimeout(fs.unlink("./arch05b.txt", (err) => {
+setTimeout(fs.link("./modulos", "./arch05b.txt", (err) => {
     if (err) {
         //throw new Error(err)
         console.log(err)
     }
-    console.log("Archivo borrado exitosamente")
+    console.log("Archivo creado exitosamente")
 }), 7000);
 */
