@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "name": "colors_itos",
+  "version": "0.0.1",
+  "description": "Es un modulo que modifica y personaliza los colores de los comandos que se vayan a ejecutar en la consola",
+  "main": "app_06.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Colors",
+    "colorsitos",
+    "colores"
+  ],
+  "author": "Iron",
+  "license": "ISC"
+}
